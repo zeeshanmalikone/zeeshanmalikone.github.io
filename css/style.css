@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+   
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+    /* <!-- *******************************mid-container**************************** --> */
+
+    .top-container  {
+        position: relative;
+        padding-top: 100;
+        background-color: rgb(216, 245, 245);
+
+        
+        
+    }
+
+    .profile {
+        
+    }
+
+    p {
+margin: auto; 
+width: 30%;  
+line-height: 2; }
+
+    h1 {
+        
+       
+        font-family: 'Sacramento', cursive;
+        font-size: 562.5%;
+        padding-top: 100px;
+        color: #66BFBF;
+    }
+
+    h2 {
+        font-family: 'Montserrat',sans-serif;
+        font-size: 2.5rem;
+        color: #66BFBF;
+        margin: 20px auto;
+        font-weight: bold;
+    }
+
+   
+    .top-cloud {
+
+        position: absolute;
+        right: 400px;
+        top: 50px;
+    }
+
+        .bottom-cloud {
+
+        position: absolute;
+        left: 400px;
+        bottom: 300px;
+    }
+
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: lightgrey;
+        border-width: 7px;
+        margin: 5rem 48%;
+        }
+    
+    .ic {
+float: left;
+padding-right: 30px;
+height: 12.5rem;
+
+    }
+    .icu {
+float: right;
+padding-left: 30px;
+height: 12.5rem;
+    }
+
+
+    .skills {
+      
+    }
+    .skill-row {
+        
+          width: 50%;
+          margin: 100px auto;
+          text-align: left;
+          
+    }
+
+
+        /* <!-- *******************************mid-container**************************** --> */
+
+        .mid-container  {
+           
+        }
+     
+
+        h3 {
+            color: #11999E;
+        }
+    .btn {
+        background-color:#11cdd4 ;
+        color: white;
+        display: inline-block;
+        width: 200px;
+        padding: 15px;
+        border-radius: 8px;
+        margin: 50px auto;
+        height: 50px;
+        font-weight: 600;
+        font-family: 'Montserrat';
+    }
+    .btn:hover {
+        background-color: #30e3cb;
+    }
+
+
+            /* <!-- *******************************bottom-container**************************** --> */
+
+            .bottom-container  {
+
+                background-color:#66BFBF ;
+                height: 150px;
+                padding: 50px;
+
+          
+            }
+            .footer-link {
+                color: #11999E;
+                padding: 10px 20px;
+        
+            }
+            .footer-link:hover {
+                color: #EAF6F6;
+            }
+            .copy {
+                color: #EAF6F6;
+                font-size: 0.75rem;
+                margin: 20px auto;
+            }
+            .copy:hover{
+                color: rgb(23, 51, 23);
+              
+            }
+        
